@@ -22,7 +22,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 110vh;
+    height: 100vh;
 }
 .card_body{
     background-color: var(--darkgrey);
@@ -76,10 +76,11 @@ body{
     font-size: 14px;
     font-weight: 600;
     opacity: 0.8;
+    transition: 0.4s;
+    
 }
 .button_class:hover{
     background-color: var(--green);
-    transition: 0.9s ease-in-out;
 }
 @media screen and (max-width: 455px){
     .card_body{
