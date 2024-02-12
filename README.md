@@ -34,9 +34,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-
+- FLEX
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
